@@ -26,7 +26,7 @@ SECRET_KEY = '+95gh76-7wd=_!zp3td8+mi-lueydbh^%947q_d$tr!00fm#zr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['bikesh-heroku-test.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['bevence-heroku-test.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
